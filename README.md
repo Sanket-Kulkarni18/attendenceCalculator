@@ -1,3 +1,14 @@
+# Hello Everyone
+### This is totally new webapp for students who are studying in my college (RIT) they are getting trouble for calculatating their attendence so here is my app just copy and paste the whole table and your attendence is shown.
+### I have created video on it. Its on my LinkedIN account if you want to watch just click below.
+
+https://www.linkedin.com/posts/sanket-kulkarni-346037197_hello-everyone-our-colleges-student-portal-activity-6779440865065746432-bo7o
+
+##  If you want to check website click on link given below...
+
+https://attendence-calculator.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
